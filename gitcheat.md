@@ -21,3 +21,4 @@ git log
 git add . (stages files)
 git commit -m "[clear message describing the changes you made]"
 git push origin master (not sure what this means)
+git reset (unstages a file)
