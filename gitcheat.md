@@ -18,6 +18,6 @@ git remote add origin [URL of your remote repository, ie on github]
 git remote -v 
 git status (tells status of files or repositories being staged or committed)
 git log
-git add .
+git add . (stages files)
 git commit -m "[clear message describing the changes you made]"
-git push origin master
+git push origin master (not sure what this means)
