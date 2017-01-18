@@ -13,10 +13,10 @@ Commands we learned Day 1:
 git config --global user.name "[name]" (how to configure your machine with git)
 git config --global user.email "[email address]" (same as above but for email)
 git config --list (lists status of git connection/account)
-git init
-git remote add origin [URL of your remote repo]
-git remote -v
-git status
+git init (still not sure... initializes git in a specific location on the local drive?)
+git remote add origin [URL of your remote repository, ie on github]
+git remote -v 
+git status (tells status of files or repositories being staged or committed)
 git log
 git add .
 git commit -m "[clear message describing the changes you made]"
